@@ -70,28 +70,63 @@ Fair DAO aims to:
 
 ---
 
-## Next Steps #1
+## The Visionary’s Archipelago
 
-* Implement dynamic identity systems
-* Link this with i2p ecosystem (Gostcoin, PurpleI2P, i2pd)
-* Build community of non-tokenized governance cells
+### 🪨 1. Island of Rest *(mirage)*
+> "You've done enough. Time to rest. It's all meaningless."
+* Comfort without movement
+* Memory bog
+* ❌ A trap, not true land
 
-## Making It Legible
+### 🧿 2. Island of Recognition *(false land)*
+> "Applause, status, fame."
+* Fleeting
+* Drains meaning
+* ❌ Market of reflections
 
-Fair DAO maps can feel intimidating — they’re **not meant to gatekeep**, but to encode complexity.
+### 🌾 3. Island of Practice *(initial landfall)*
+> "You built something, even if imperfect."
+* Organic network grows
+* ✅ Grounded action
 
-Like the myth of Prometheus or Danko, carrying fire/light comes at a cost — but:
+### 🕸 4. Island of Resonance
+> "You met others. A third path emerged."
+* Ensemble over ego
+* ✅ Mutual transformation
 
-> ✨ Our job is to _translate the complexity_ for others — not to escape them into abstraction.
+### 🏛 5. Island of Structure
+> "You built durable infrastructure."
+* ✅ Collective scaffolding
 
-Next steps #2:
+### 🕊 6. Ithaca: Living Metasystems
+> "Your fractal lives on beyond you."
+* ✅ Recursive civilization DNA
 
-- Add visual mini-guides / micro-legends
-- Build storytelling layers: comics, myths, walkthroughs
-- Invite non-technical voices to shape the map's narrative
+---
+
+## Real vs False Land
+
+| Trait                  | False Land          | True Land                |
+|------------------------|---------------------|--------------------------|
+| Attention              | Focus on self       | Focus on the work        |
+| Satisfaction           | Instant, shallow    | Deep, lasting            |
+| Energy after contact   | Draining            | Igniting                 |
+| Structure              | Fragile             | Evolving                 |
+| Relations              | Ego loops           | Resonant fractals        |
+
+---
+
+## Fair DAO Archipelago
+
+1. `Mesh of Things` → living infrastructure
+2. `Shadow Systems` → secure, untrackable networks
+3. `Fractal Agreements` → consent without coercion
+4. `Memplexes` → shared cultural DNA
+5. `Resilience Loops` → feedback-based adaptation
+6. `DAO of the Biosphere` → biospheric continuity hubs (planetary and beyond)
 
 ---
 
 **Source**: [GitHub Repo](https://github.com/nonlin-lin-chaos-order-etc-etal/fairstate)
 
-> *This file auto-generated with 🧠 ChatGPT & 🛠️ open collaboration. The path to image file updated by nonlin-lin-chaos-order-etc-etal-etmore.*
+> _This file co-created with 🤖 ChatGPT and 🧠 human collaborators._
