@@ -70,11 +70,25 @@ Fair DAO aims to:
 
 ---
 
-## Next Steps
+## Next Steps #1
 
 * Implement dynamic identity systems
 * Link this with i2p ecosystem (Gostcoin, PurpleI2P, i2pd)
 * Build community of non-tokenized governance cells
+
+## Making It Legible
+
+Fair DAO maps can feel intimidating — they’re **not meant to gatekeep**, but to encode complexity.
+
+Like the myth of Prometheus or Danko, carrying fire/light comes at a cost — but:
+
+> ✨ Our job is to _translate the complexity_ for others — not to escape them into abstraction.
+
+Next steps #2:
+
+- Add visual mini-guides / micro-legends
+- Build storytelling layers: comics, myths, walkthroughs
+- Invite non-technical voices to shape the map's narrative
 
 ---
 
